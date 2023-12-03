@@ -1,0 +1,7 @@
+monter:w
+descendre:s
+gauche:a
+droite:d
+interaction:p
+ramasser:r
+pompe:space

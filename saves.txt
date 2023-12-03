@@ -1,0 +1,12 @@
+money:85146
+posX:384
+posY:256
+can1x:0
+can1y:-1664
+lastMouv:down
+mission:Semez la police.
+missionMamadou:0
+missionFrancois:0
+key:0
+tenue:0
+ecranNum:0
