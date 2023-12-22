@@ -1962,7 +1962,7 @@ def cinematicMamadou():
 
 
 
-variableCinematic = 9
+variableCinematic = 0
 
 def orienterMamadou():
     global bot_mamadou
